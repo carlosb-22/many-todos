@@ -3,6 +3,8 @@
 
 This is a simple yet powerful To-Do App built using React for the frontend, Tailwind CSS for styling, and localStorage for persistent data storage. The app allows users to:
 
+![Screenshot](https://github.com/carlosb-22/many-todos/blob/main/todo-app1/src/assets/preview.png)
+
 📥 Add new tasks: Easily add tasks to the to-do list.
 
 ✅ Mark tasks as completed: Toggle the completion status of each task.
